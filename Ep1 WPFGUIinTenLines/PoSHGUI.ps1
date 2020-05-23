@@ -4,10 +4,17 @@
    GitHub      : https://github.com/JimMoyle/GUIDemo
 
     Version 0.0.1
+
+    note (tilde's fork)
+     may 2020
+     that twitter module doesn't exist and I couldn't import a different one as I only get an error message
+     so I'm going to try and do something else with this example
+     
 #>
 
 #Add in the frameworks so that we can create the WPF GUI
 Add-Type -AssemblyName presentationframework, presentationcore
+
 
 
 #Create empty hashtable into which we will place the GUI objects
@@ -15,7 +22,7 @@ $wpf = @{ }
 
 
 #Grab the content of the Visual Studio xaml file as a string
-$inputXML = Get-Content -Path ".\WPFGUIinTenLines\MainWindow.xaml"
+$inputXML = Get-Content -Path "S:\repos\GUIDemo\Ep1 WPFGUIinTenLines\WPFGUIinTenLines\MainWindow.xaml"
 
 Clear-Host
 $inputXML

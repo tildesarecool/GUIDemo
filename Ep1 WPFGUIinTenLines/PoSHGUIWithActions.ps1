@@ -14,7 +14,7 @@
 
 Add-Type -AssemblyName presentationframework, presentationcore
 $wpf = @{ }
-$inputXML = Get-Content -Path ".\WPFGUIinTenLines\MainWindow.xaml"
+$inputXML = Get-Content -Path "S:\repos\GUIDemo\Ep1 WPFGUIinTenLines\WPFGUIinTenLines\MainWindow.xaml"
 $inputXMLClean = $inputXML -replace 'mc:Ignorable="d"','' -replace "x:N",'N' -replace 'x:Class=".*?"','' -replace 'd:DesignHeight="\d*?"','' -replace 'd:DesignWidth="\d*?"',''
 [xml]$xaml = $inputXMLClean
 $reader = New-Object System.Xml.XmlNodeReader $xaml

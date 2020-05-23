@@ -1,0 +1,16 @@
+﻿<Window x:Name="MainWindow1" x:Class="gui_demo___vs_project.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:gui_demo___vs_project"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800" Background="#FFDDDDDD">
+    <Grid Background="#FF2B5CC3">
+        <Image x:Name="ouputImage" HorizontalAlignment="Left" Height="100" Margin="68,98,0,0" VerticalAlignment="Top" Width="100"/>
+        <TextBox x:Name="mainInputBox" HorizontalAlignment="Left" Height="23" Margin="68,287,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120"/>
+        <Button x:Name="submitButton" Content="show pic" HorizontalAlignment="Left" Height="50" Margin="309,271,0,0" VerticalAlignment="Top" Width="225"/>
+        <TextBlock HorizontalAlignment="Left" Height="46" Margin="367,98,0,0" TextWrapping="Wrap" Text="informaiton here (output)" VerticalAlignment="Top" Width="167"/>
+
+    </Grid>
+</Window>

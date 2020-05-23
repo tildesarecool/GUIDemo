@@ -1,0 +1,15 @@
+S:\repos\GUIDemo\gui demo - vs project\gui demo - vs project\bin\Debug\gui demo - vs project.exe.config
+S:\repos\GUIDemo\gui demo - vs project\gui demo - vs project\bin\Debug\gui demo - vs project.exe
+S:\repos\GUIDemo\gui demo - vs project\gui demo - vs project\bin\Debug\gui demo - vs project.pdb
+S:\repos\GUIDemo\gui demo - vs project\gui demo - vs project\obj\Debug\gui demo - vs project.csprojAssemblyReference.cache
+S:\repos\GUIDemo\gui demo - vs project\gui demo - vs project\obj\Debug\MainWindow.g.cs
+S:\repos\GUIDemo\gui demo - vs project\gui demo - vs project\obj\Debug\App.g.cs
+S:\repos\GUIDemo\gui demo - vs project\gui demo - vs project\obj\Debug\gui demo - vs project_MarkupCompile.cache
+S:\repos\GUIDemo\gui demo - vs project\gui demo - vs project\obj\Debug\gui demo - vs project_MarkupCompile.lref
+S:\repos\GUIDemo\gui demo - vs project\gui demo - vs project\obj\Debug\MainWindow.baml
+S:\repos\GUIDemo\gui demo - vs project\gui demo - vs project\obj\Debug\gui demo - vs project.g.resources
+S:\repos\GUIDemo\gui demo - vs project\gui demo - vs project\obj\Debug\gui_demo___vs_project.Properties.Resources.resources
+S:\repos\GUIDemo\gui demo - vs project\gui demo - vs project\obj\Debug\gui demo - vs project.csproj.GenerateResource.cache
+S:\repos\GUIDemo\gui demo - vs project\gui demo - vs project\obj\Debug\gui demo - vs project.csproj.CoreCompileInputs.cache
+S:\repos\GUIDemo\gui demo - vs project\gui demo - vs project\obj\Debug\gui demo - vs project.exe
+S:\repos\GUIDemo\gui demo - vs project\gui demo - vs project\obj\Debug\gui demo - vs project.pdb

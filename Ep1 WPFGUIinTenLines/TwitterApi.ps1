@@ -9,7 +9,7 @@
 Find-module *twitter*
 
 #import the twitter API module after downloading it from the gallery
-Import-Module InvokeTwitterAPIs
+Import-Module InvokeTwitterAPIs # this doesn't exist as a module any longer and none of the modules I had listed would import
 
 #Show twitter oath dev page
 Start-process https://dev.twitter.com/oauth
